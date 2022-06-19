@@ -1,0 +1,4 @@
+Conceitos iniciais:
+
+No início não estava conseguindo fazer o push de uma pasta, não estava aparecendo nem no "git status". 
+Porém, após a criação de um arquivo txt dentro da pasta, imediatamente a pasta foi identificada e push foi concluído perfeitamente.
